@@ -1,0 +1,13 @@
+SkytechDataGeneratorFULL.py creates 10000 rows of data
+  - Creates data_computers, data_customers, data_purchases, vendors_table, and builders_table
+
+SkytechDataGeneratorSAMPLE.py creates 100 rows of data (presumably this is enough for a "sample"?)
+  - Creates data_computersSAMPLE, data_customersSAMPLE, data_purchasesSAMPLE
+
+createSkytechDB.sql - creates the database in SQL
+
+loadData.sql - bulk imports data into the SQL database
+
+TableQueries.sql - executes the show tables, describe tables, and count, and select queries
+
+Output.pdf - shows the output of the queries in TableQueries.sql
